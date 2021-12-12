@@ -1,50 +1,31 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
+title = "Industry Experience"
+subtitle = ""
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-design:
-  columns: '2'
----
+
++++
+* MSR, Research Intern.
+  * Mentor(s): [Subhabrata (Subho) Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Yu Cheng](https://sites.google.com/site/chengyu05), and Ahmed H. Awadallah.
+  * May 2021 - August 2021
+* Adobe Research, Research Intern.
+  * Mentor(s): [Varun Manjunatha](http://users.umiacs.umd.edu/~varunm/), Tong Sun, Rajiv Jain, Jiuxiang Gu, Ruchi Deshpande, Franck Dernoncourt.
+  * May 2020 - August 2020
+* Intel Asia-Pacific Research & Development Ltd, Software Engineer Intern.
+  * Worked on an AR (Augmented reality) project for Smart glasses.
+  * March 2017 - August 2017
