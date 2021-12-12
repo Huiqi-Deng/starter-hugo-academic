@@ -58,7 +58,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral fellow at the Shanghai Jiao Tong University, under the supervision of [Prof. Quanshi Zhang](http://qszhang.com/). I received my PH.D. degree from Sun Yat-Sen University. 
+I am a postdoctoral fellow at Shanghai Jiao Tong University, under the supervision of [Prof. Quanshi Zhang](http://qszhang.com/). I received my PH.D. degree from Sun Yat-Sen University. 
 
 My research interest mainly focuses on explainable AI, which involves two perspectives: (1) Semantic explanation, to make human understand why a DNN makes a certain prediction; (2) Mathematical explanation, to investigate and explain the representation capacity of DNN. Our ultimate goal is to bulid an explainable, safe, and controllable AI. 
 
