@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Industry Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 
 
 +++
-* MSR, Research Intern.
-  * Mentor(s): [Subhabrata (Subho) Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Yu Cheng](https://sites.google.com/site/chengyu05), and Ahmed H. Awadallah.
-  * May 2021 - August 2021
-* Adobe Research, Research Intern.
-  * Mentor(s): [Varun Manjunatha](http://users.umiacs.umd.edu/~varunm/), Tong Sun, Rajiv Jain, Jiuxiang Gu, Ruchi Deshpande, Franck Dernoncourt.
-  * May 2020 - August 2020
-* Intel Asia-Pacific Research & Development Ltd, Software Engineer Intern.
-  * Worked on an AR (Augmented reality) project for Smart glasses.
-  * March 2017 - August 2017
+* Shanghai Jiao Tong University, Postdoctoral Fellow.
+  * Advisor: [Prof. Quanshi Zhang](http://qszhang.com/). 
+  * Sep 2021 - present
+* Texas A & M University, Visiting student.
+  * Advisor: [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html). 
+  * Jan 2020 - Jan 2021
+* HongKong Bapatist University, Research Assistant
+  * Advisor: [Prof. PongChi Yuen](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=pcyuen). 
+  * Oct 2016 - Jun 2017, and Jan 2018 - Jan 2019
