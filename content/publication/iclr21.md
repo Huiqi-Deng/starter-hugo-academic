@@ -1,10 +1,10 @@
 +++
-title = "Techniques for Interpretable Machine Learning"
-date = 2020-09-05T00:00:06
+title = "Discovering and Explaining the Representation Bottleneck of DNNs"
+date = 2021-10-11T00:00:06
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mengnan Du", "Ninghao Liu", "Xia Hu"]
+authors = ["Huiqi Deng", "Qihan Ren", "Xu Chen", "Hao Zhang", "Jie Ren", "Quanshi Zhang"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Mengnan Du", "Ninghao Liu", "Xia Hu"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Communications of the ACM"
-publication_short = "Communications of the ACM (CACM), Review Article, **Highlighted Article on the Cover Page**"
+publication = "arxiv"
+publication_short = "arxiv 2021"
 
 # Abstract and optional shortened version.
-abstract = "Interpretable machine learning tackles the important problem that humans cannot understand the behaviors of complex machine learning models and how these models arrive at a particular decision. Although many approaches have been proposed, a comprehensive understanding of the achievements and challenges is still lacking. We provide a survey covering existing techniques to increase the interpretability of machine learning models. We also discuss crucial issues that the community should consider in future work such as designing user-friendly explanations and developing comprehensive evaluation metrics to further push forward the area of interpretable machine learning."
+abstract = "This paper explores the bottleneck of feature representations of deep neural networks (DNNs), from the perspective of the complexity of interactions between input variables encoded in DNNs. To this end, we focus on the multi-order interaction between input variables, where the order represents the complexity of interactions. We discover that a DNN is more likely to encode both too simple interactions and too complex interactions, but usually fails to learn interactions of intermediate complexity. Such a phenomenon is widely shared by different DNNs for different tasks. This phenomenon indicates a cognition gap between DNNs and human beings, and we call it a representation bottleneck. We theoretically prove the underlying reason for the representation bottleneck. Furthermore, we propose a loss to encourage/penalize the learning of interactions of specific complexities, and analyze the representation capacities of interactions of different complexities."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,19 +43,19 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://people.tamu.edu/~dumengnan/p68-du.pdf"
-url_preprint = "http://people.tamu.edu/~dumengnan/interpretable_machine_learning.pdf"
+url_pdf = "https://arxiv.org/pdf/2111.06236.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://vimeo.com/376904816"
+url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Translation", url = "http://people.tamu.edu/~dumengnan/interpretable_machine_learning_chinese.pdf"}]
+#url_custom = [{name = "Translation", url = "http://people.tamu.edu/~dumengnan/interpretable_machine_learning_chinese.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
