@@ -44,7 +44,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/2111.06236.pdf"
-url_preprint = ""
+url_zhihu = "https://zhuanlan.zhihu.com/p/422420088"
 url_code = ""
 url_dataset = ""
 url_project = ""
