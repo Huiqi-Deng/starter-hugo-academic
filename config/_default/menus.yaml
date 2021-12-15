@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publications
+    url: '#publications'
+    weight: 50
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Scholar
     url: 'https://scholar.google.com/citations?user=QEjqzXgAAAAJ&hl=zh-CN'
     weight: 60
